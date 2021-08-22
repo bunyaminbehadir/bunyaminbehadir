@@ -1,4 +1,4 @@
-- Hi, there! 👋  I'm Bunyamin and I work at PayCore as a senior software engineer in the payments team. I'm a highly motivated hands-on engineer and I love to be part of developing payments infrastructure that enables transactions to flow across the payment networks.
+- Hi, there! 👋  I'm Bunyamin and I work at PayCore as a software engineer in the payments team. I'm a highly motivated hands-on engineer and I love to be part of developing payments infrastructure that enables transactions to flow across the payment networks.
 
 <!---
 bunyaminbehadir/bunyaminbehadir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
